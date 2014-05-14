@@ -340,7 +340,8 @@ hr {
     background: #edcf72;
 	background: url('../tiles/tony/7.jpg');
    # box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
-    #font-size: 45px; }
+    #font-size: 45px; 
+	}
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
        # font-size: 25px; 
@@ -350,11 +351,12 @@ hr {
     background: #edcc61;
 	background: url('../tiles/tony/8.jpg');
     #box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
-    #font-size: 45px; }
+    #font-size: 45px; 
+	}
     @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
       #  font-size: 25px;
-		} }
+	  } }
   .tile.tile-512 .tile-inner {
     color: #f9f6f2;
     background: #edc850;
